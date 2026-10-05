@@ -1,4 +1,4 @@
-# DSA8670 – Kanban Fundamentals with GitHub
+# DSA8670 – Kanban Fundamentals with GitHub 
 # Last Updated - 10/4/2026
 # Updated By - Caelan Coyne
 
