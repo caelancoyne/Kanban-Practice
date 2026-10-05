@@ -1,4 +1,6 @@
 # DSA8670 – Kanban Fundamentals with GitHub
+# Last Updated - 10/4/2026
+# Updated By - Caelan Coyne
 
 Welcome to the **Kanban Fundamentals** assignment for DSA 8670: Analytics Project Delivery.  
 In this assignment, you will learn how to use GitHub’s **Projects** feature to manage work visually with a Kanban board.
